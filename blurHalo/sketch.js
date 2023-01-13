@@ -4,7 +4,7 @@ let r = 0;
 let g = 0
 
 function setup(){
-  createCanvas(1920, 1080);
+  createCanvas(500, 500);
   background(0,0,255);
   stroke(255);
   fill(255);
