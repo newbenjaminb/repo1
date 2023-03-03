@@ -7,7 +7,6 @@ similar to html
 new@benjaminb.com
 uname is newbenjaminb
 pw
-gitonupp1!
 
 
 https://git-scm.com/download/mac
