@@ -6,7 +6,7 @@ similar to html
 
 new@benjaminb.com
 uname is newbenjaminb
-pw
+[circlePixels](circlePixels)
 
 
 https://git-scm.com/download/mac
