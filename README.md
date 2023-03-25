@@ -1,4 +1,4 @@
-# settings
+# notes
 
 https://www.markdownguide.org/cheat-sheet/
 markdown language
